@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e40295d1-34d6-43e4-aad2-c272ecc8ff13}">
+		<property name="assetPath">
+			<value>CharacterFootsteps/Rock/as_ch_so_footsteps_rock_med_rr01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.28510416666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ece81467-d39c-47f6-be00-1e34daa4780e}</destination>
+		</relationship>
+	</object>
+</objects>

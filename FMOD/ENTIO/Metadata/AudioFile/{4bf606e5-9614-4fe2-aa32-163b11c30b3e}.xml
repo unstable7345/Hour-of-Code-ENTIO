@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{4bf606e5-9614-4fe2-aa32-163b11c30b3e}">
+		<property name="assetPath">
+			<value>CharacterJumpVO/as_ch_so_jump_rr02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.55781250000000004</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ece81467-d39c-47f6-be00-1e34daa4780e}</destination>
+		</relationship>
+	</object>
+</objects>

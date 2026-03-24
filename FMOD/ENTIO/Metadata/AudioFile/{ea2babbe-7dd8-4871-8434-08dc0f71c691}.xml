@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ea2babbe-7dd8-4871-8434-08dc0f71c691}">
+		<property name="assetPath">
+			<value>CharacterFoley_Jump-Land/Jump_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.4343310657596372</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ece81467-d39c-47f6-be00-1e34daa4780e}</destination>
+		</relationship>
+	</object>
+</objects>
